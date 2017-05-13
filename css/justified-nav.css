@@ -13,7 +13,9 @@ body {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  
+  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color: white;
+  opacity: 0.95;
 }
 .jumbotron .btn {
   padding: 14px 24px;
